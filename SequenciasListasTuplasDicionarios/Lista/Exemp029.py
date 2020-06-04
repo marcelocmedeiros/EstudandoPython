@@ -15,3 +15,4 @@ if notas.get(nome):
 else:
     notas[nome] = nota
 print(notas)
+

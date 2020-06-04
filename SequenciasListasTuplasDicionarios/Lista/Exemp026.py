@@ -15,3 +15,7 @@ if notas.get('Peart') == None:
     print("Não existe aluno Peart")
 else:
     print("Aluno existente")
+
+# se key não existir retorna None
+print(notas.get('Peart'))
+
