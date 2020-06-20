@@ -23,4 +23,5 @@ print('t1[2:] -> ', t1[2:]) #(30,40,50)
 print('t2: ', t2)
 print('t3: ', t3)
 print('t4: ', t4)
+print(t1[::-1])
 
